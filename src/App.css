@@ -13,7 +13,7 @@ main{
   max-width: 920px;
 }
 .btn{
-  background: transparent;
+  background: #eae6eb;
   border: transparent;
   width: 2rem;
   height: 2rem;
@@ -39,4 +39,7 @@ main{
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+.content p{
+  color: purple;
 }
